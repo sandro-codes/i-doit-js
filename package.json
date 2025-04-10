@@ -1,0 +1,31 @@
+{
+  "name": "i-doit-js",
+  "version": "1.0.2",
+  "main": "IDoitClient.js",
+  "scripts": {
+    "build:ts": "tsc"
+  },
+  "files": [
+    "*.js",
+    "*.d.ts",
+    "methods/"
+  ],
+  "keywords": [
+    "i-doit",
+    "javascript",
+    "api",
+    "cmdb"
+  ],
+  "author": "Sandro Hildebrand",
+  "license": "GPL-3.0",
+  "type": "module",
+  "description": "A JavaScript client for interacting with i-doit CMDB.",
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "esbuild": "^0.24.2",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}
