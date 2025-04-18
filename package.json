@@ -1,7 +1,10 @@
 {
   "name": "@hildebrand-s/i-doit-js",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "main": "IDoitClient.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build:ts": "tsc"
   },
