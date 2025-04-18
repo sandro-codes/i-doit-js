@@ -26,7 +26,7 @@ It enables you to record, manage, and automate your IT infrastructure using a po
 ## 🚀 Installation
 
 ```bash
-npm install git+https://github.com/Hildebrand-S/i-doit-js.git
+npm i @hildebrand-s/i-doit-js
 ```
 
 ---
