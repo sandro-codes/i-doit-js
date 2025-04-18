@@ -1,5 +1,5 @@
 {
-  "name": "i-doit-js",
+  "name": "@hildebrand-s/i-doit-js",
   "version": "1.0.2",
   "main": "IDoitClient.js",
   "scripts": {
