@@ -1,5 +1,10 @@
 # i-doit-js
 
+[![npm version](https://img.shields.io/npm/v/@hildebrand-s/i-doit-js)](https://www.npmjs.com/package/@hildebrand-s/i-doit-js)
+[![npm downloads](https://img.shields.io/npm/dw/%40hildebrand-s%2Fi-doit-js)](https://www.npmjs.com/package/@hildebrand-s/i-doit-js)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![Build Status](https://github.com/Hildebrand-S/i-doit-js/actions/workflows/build.yml/badge.svg)
+
 **i-doit-js** is a modern, easy-to-use, yet feature-rich JavaScript client for interacting with the [i-doit CMDB](https://www.i-doit.com/) via its JSON-RPC API.
 
 > **Note:** This project is not affiliated with or officially supported by synetics GmbH, the creators of i-doit.
