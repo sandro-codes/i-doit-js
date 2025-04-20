@@ -1,5 +1,6 @@
 # i-doit-js
 
+![Node.js Version](https://img.shields.io/badge/node-22.14.0-brightgreen)
 [![npm version](https://img.shields.io/npm/v/@hildebrand-s/i-doit-js)](https://www.npmjs.com/package/@hildebrand-s/i-doit-js)
 [![npm downloads](https://img.shields.io/npm/dw/%40hildebrand-s%2Fi-doit-js)](https://www.npmjs.com/package/@hildebrand-s/i-doit-js)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)

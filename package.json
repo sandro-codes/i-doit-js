@@ -13,6 +13,9 @@
     "*.d.ts",
     "methods/"
   ],
+  "engines": {
+    "node": ">=22.14.0"
+  },
   "keywords": [
     "i-doit",
     "javascript",
@@ -24,7 +27,7 @@
   "type": "module",
   "description": "A JavaScript client for interacting with i-doit CMDB.",
   "devDependencies": {
-    "@types/node": "^22.10.7",
+    "@types/node": "^22.14.0",
     "esbuild": "^0.25.2",
     "typescript": "^5.7.3"
   },
