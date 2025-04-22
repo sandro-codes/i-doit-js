@@ -50,7 +50,7 @@ You can find the complete API documentation here:
 | Option    | Required | Description                              |
 |-----------|----------|------------------------------------------|
 | `url`     | ✅        | Base URL to your i-doit `jsonrpc.php` endpoint |
-| `username`  | ✅        | Username for authentication         |
+| `username`  | ✅        | Username for authentication                  |
 | `password`  | ✅        | Password for authentication         |
 | `apiKey`  | ✅        | API key/token for authentication         |
 | `language`| ❌        | Language code (e.g., "en", "de")         |
