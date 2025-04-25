@@ -71,7 +71,7 @@ const idoit = new IDoitClient({
 
 This library allows you to call any method supported by the i-doit JSON-RPC API.  
 You can find the complete API documentation here:  
-[https://kb.i-doit.com/en/i-doit-add-ons/api/](https://kb.i-doit.com/de/i-doit-add-ons/api/)
+[https://kb.i-doit.com/en/i-doit-add-ons/api/](https://kb.i-doit.com/en/i-doit-add-ons/api/)
 
 ---
 
