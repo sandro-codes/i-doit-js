@@ -39,8 +39,6 @@ npm i @hildebrand-s/i-doit-js
 
 ## 💻 Usage
 
----
-
 ### Getting Started
 
 ```javascript
