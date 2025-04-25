@@ -31,21 +31,33 @@ It enables you to record, manage, and automate your IT infrastructure using a po
 
 ## 🚀 Installation
 
-```bash
+```shell
 npm i @hildebrand-s/i-doit-js
 ```
 
 ---
 
-## 📚 API Methods
-
-This library allows you to call any method supported by the i-doit JSON-RPC API.  
-You can find the complete API documentation here:  
-[https://kb.i-doit.com/de/i-doit-add-ons/api/](https://kb.i-doit.com/de/i-doit-add-ons/api/)
+## 💻 Usage
 
 ---
 
-## 🛠 Configuration Options
+### Getting Started
+
+```javascript
+import IDoitClient from "@hildebrand-s/i-doit-js";
+
+const idoit = new IDoitClient({
+    url: "https://demo.i-doit.com/src/jsonrpc.php",
+    username: "admin",
+    password: "admin",
+    apiKey: "c1ia5q",
+    language: "en"
+});
+```
+
+---
+
+## 🛠️ Configuration Options
 
 | Option    | Required | Description                              |
 |-----------|----------|------------------------------------------|
@@ -54,6 +66,14 @@ You can find the complete API documentation here:
 | `password`  | ✅        | Password for authentication         |
 | `apiKey`  | ✅        | API key/token for authentication         |
 | `language`| ❌        | Language code (e.g., "en", "de")         |
+
+---
+
+## 📚 API Methods
+
+This library allows you to call any method supported by the i-doit JSON-RPC API.  
+You can find the complete API documentation here:  
+[https://kb.i-doit.com/de/i-doit-add-ons/api/](https://kb.i-doit.com/de/i-doit-add-ons/api/)
 
 ---
 
