@@ -27,7 +27,7 @@
   "type": "module",
   "description": "A JavaScript client for interacting with i-doit CMDB.",
   "devDependencies": {
-    "@types/node": "^22.14.0",
+    "@types/node": "^24.0.1",
     "esbuild": "^0.25.2",
     "typescript": "^5.7.3"
   },
